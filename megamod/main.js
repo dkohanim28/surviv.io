@@ -49,7 +49,7 @@ webpackJsonp([0], {
 			},
 			player: {
 				radius: 1,
-				maxVisualRadius: 3.75,
+				maxVisualRadius: 25,
 				maxInteractionRad: 3.5,
 				minActiveTime: 10,
 				moveSpeed: 12,
