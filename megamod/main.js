@@ -16465,9 +16465,9 @@ webpackJsonp([0], {
 											ye = s.pointToScreen(ge),
 											be = m.testCircleAabb(ue, d.player.radius, W.min, W.max);
 										if (!ie.dead && !be) {
-											var xe = 32,
+											var xe = 108,
 												ve = "translate(-50%, -50%) rotate(" + fe + "rad)";
-											Y && (xe = 16, ve += " scale(0.5)"), pe = !1, de.css({
+											Y && (xe = 64, ve += " scale(0.5)"), pe = !1, de.css({
 												left: g.clamp(ye.x, xe, s.screenWidth - xe),
 												top: g.clamp(ye.y, xe, s.screenHeight - xe),
 												transform: ve
