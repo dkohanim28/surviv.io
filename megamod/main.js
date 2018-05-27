@@ -2735,7 +2735,7 @@ webpackJsonp([0], {
 				}
 			},
 			scopeZoomRadius: {
-				"1xscope": 32,
+				"1xscope": 100,
 				"2xscope": 42,
 				"4xscope": 58,
 				"8xscope": 86,
